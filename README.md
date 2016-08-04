@@ -4,6 +4,6 @@
 
 - features
   * stripe payment gateway
-  * API call from Atlassian, Github, Slack, Trello and Google Apps
+  * API integration from Atlassian, Github, Slack, Trello and Google Apps
   * Send Email
   * Invite

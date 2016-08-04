@@ -1,6 +1,9 @@
 # django-lavioli
-<<<<<<< HEAD
 
-=======
-# django-lavioli
->>>>>>> 53060b6b66cab4db5c0d1734329ae2ff2040ef0b
+ Web service to use all of the Atlassian tools, Github, Slack, Trello, and Google Apps.
+
+- features
+  * stripe payment gateway
+  * API call from Atlassian, Github, Slack, Trello and Google Apps
+  * Send Email
+  * Invite
